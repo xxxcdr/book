@@ -1,5 +1,5 @@
-export const OWNER = "xuduoqian";
-export const REPO = "Chat Book";
+export const OWNER = "Yidadaa";
+export const REPO = "ChatGPT-Next-Web";
 export const REPO_URL = `https://www.google.com`;
 export const ISSUE_URL = `https://www.google.com`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
